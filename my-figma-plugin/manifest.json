@@ -1,0 +1,15 @@
+{
+    "id": "1452650491779103151",
+    "name": "Quick Typography",
+    "api": "1.0.0",
+    "editorType": ["figma", "figjam"], 
+    "networkAccess": {
+        "allowedDomains": ["none"]
+    },
+    "documentAccess": "dynamic-page",
+    "main": "code.js",
+    "ui": "ui.html"
+    
+}
+   
+  
